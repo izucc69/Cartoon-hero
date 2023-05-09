@@ -1,0 +1,23 @@
+h1{
+color: deepskyblue;
+font-size: 80px;
+}
+body{
+background-color: darkgray;
+}
+.class{
+font-size: 20px;
+}
+.color{
+color: hotpink;
+}
+p{
+font-size: 30px;
+color: blueviolet;
+}
+.big{
+	color: darkcyan;
+}
+.hometown.pikachu{
+	color: indianred;
+}
