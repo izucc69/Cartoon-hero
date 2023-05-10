@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+	}
+	header{
+	background-color: blue;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+h1{
+	color: darkred;
+
+}
+header img{
+	border-radius: 185px;
+	width: 560px;
+	border: 15px solid black;
+}
